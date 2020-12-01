@@ -7,4 +7,4 @@ To use code:
 
 **Note:** the CCapture library records and downloads frames from your browser. It's commented by default in the `sketch.js` file. If you want to download it, uncomment accordingly. Check [this blog post](https://peterbeshai.com/blog/2018-10-28-p5js-ccapture/) for more detail.  
 
- Alteratively, view output on https://tkasarla.github.io/art.html
+ Alteratively, view output on [my art page](https://tkasarla.github.io/art.html)
